@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## ¡Hola! 👋
+Soy Jorge, estudiante de 3º de Ingeniería Informática, cursando la mención en Ingeniería del Software
 <!--
 **jrgeegr/jrgeegr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
