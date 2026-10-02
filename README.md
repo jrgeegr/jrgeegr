@@ -1,5 +1,5 @@
 ## ¡Hola! 👋
-<p>:mortar_board:Soy Jorge, estudiante de 3º del grado en Ingeniería Informática de la Universidad de Granada.</p>
+<p>:mortar_board:Soy Jorge, estudiante de 4º del grado en Ingeniería Informática de la Universidad de Granada.</p>
 <p>:computer:Actualmente cursando la mención en Ingeniería del Software.</p>
 <!--
 **jrgeegr/jrgeegr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
